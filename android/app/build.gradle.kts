@@ -7,7 +7,7 @@ plugins {
 
 android {
     namespace = "com.example.kigali_city_directory"
-    compileSdk = 34
+    compileSdk = 36
 
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_17
